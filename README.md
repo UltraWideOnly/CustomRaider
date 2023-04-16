@@ -10,6 +10,7 @@ Gameplay:
 
 Features:
 + Player can run, jump and climb
++ Mixamo animations
 + Maps built with Unity ProBuilder
 
 Roadmap:

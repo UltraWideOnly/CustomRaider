@@ -6,7 +6,7 @@ Unity 2021.3.16f1
 
 Features:
 + Player can run, jump and climb
-+ Maps will be built with Unity ProBuilder
++ Maps built with Unity ProBuilder
 
 Roadmap:
 + Bugfixes

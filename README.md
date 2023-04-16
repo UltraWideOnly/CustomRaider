@@ -17,3 +17,6 @@ Roadmap:
 + Bugfixes
 + Cave map
 + Animals
+
+Disclaimer:
+This is a free fan project. The Tomb Raider franchise is owned by Square Enix.
